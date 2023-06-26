@@ -9,3 +9,5 @@ https://disk.yandex.ru/d/yHUAVJHOknm0vw
 Помимо данного репозитория есть также публичный репозиторий с полным кодом модели masked VAE-BAT-Fill:
 
 https://github.com/LiD022/BAT-Fill/tree/master
+
+Именно на нём лежит файл запуска bat_sample.py модели masked VAE-BAT-Fill
